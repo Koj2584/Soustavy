@@ -1,0 +1,11 @@
+G:\Dokumenty\Csharp\Soustavy\Soustavy\bin\Debug\Soustavy.exe.config
+G:\Dokumenty\Csharp\Soustavy\Soustavy\bin\Debug\Soustavy.exe
+G:\Dokumenty\Csharp\Soustavy\Soustavy\bin\Debug\Soustavy.pdb
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.AssemblyReference.cache
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.Form1.resources
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.Properties.Resources.resources
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.exe
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.pdb
+G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.Form2.resources
