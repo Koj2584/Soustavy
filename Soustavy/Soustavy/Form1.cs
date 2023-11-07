@@ -19,27 +19,16 @@ namespace Soustavy
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = string.Empty;
-            int dec = int.Parse(textBox1.Text);
-            List<byte> list = new List<byte>();
-            while (dec > 0)
-            {
-                list.Add(Convert.ToByte(dec % 2));
-                dec /= 2;
-            }
-            list.Reverse();
-            foreach(byte b in list)
-            {
-                label1.Text += b;
-            }
+            Form2 form2 = new Form2(this);
+            this.Visible = false;
+            form2.Show();
         }
 
-        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            if((e.KeyChar<'0'||e.KeyChar>'9')&&e.KeyChar != 8)
-            {
-                e.Handled = true;
-            }
+            Form3 form3 = new Form3(this);
+            this.Visible = false;
+            form3.Show();
         }
     }
 }

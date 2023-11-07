@@ -9,3 +9,16 @@ G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.CoreCompileInput
 G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.exe
 G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.pdb
 G:\Dokumenty\Csharp\Soustavy\Soustavy\obj\Debug\Soustavy.Form2.resources
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\bin\Debug\Soustavy.exe.config
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\bin\Debug\Soustavy.exe
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\bin\Debug\Soustavy.pdb
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.AssemblyReference.cache
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.Form1.resources
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.Form2.resources
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.Form3.resources
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.Properties.Resources.resources
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.GenerateResource.cache
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.csproj.CoreCompileInputs.cache
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.exe
+C:\Users\kubik\Source\Repos\Soustavy\Soustavy\Soustavy\obj\Debug\Soustavy.pdb
